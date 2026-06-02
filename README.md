@@ -1,4 +1,4 @@
-# 🚀 RAG Pipeline - Sentence Embeddings + FAISS + LLM
+# 🔍 RAG Pipeline - Sentence Embeddings + FAISS + LLM
 
 A clean, from-scratch **Retrieval-Augmented Generation (RAG)** pipeline. It converts the sentences in a text file into vector representations, stores them in a FAISS vector store, and when a query arrives, retrieves the most relevant sentences and feeds them to a language model as context. 🧠✨
 
